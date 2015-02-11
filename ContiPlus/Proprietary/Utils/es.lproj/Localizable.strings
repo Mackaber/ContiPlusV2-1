@@ -1,0 +1,425 @@
+/* 
+  Localizable.strings
+  ContiPlus
+
+  Created by Jonathan Jimenez Sandoval on 11/22/14.
+  Copyright (c) 2014 Jonathan Jimenez Sandoval. All rights reserved.
+*/
+
+// Extras
+"Hecho" = "Hecho";
+"Borrar" = "Borrar";
+
+// LoginView Text
+
+"Usuario"                                                                                   = "Usuario";
+"Contraseña"                                                                                = "Contraseña";
+"Entrar"                                                                                    = "Entrar";
+"¿Olvidaste la contraseña?"                                                                 = "¿Olvidaste la contraseña?";
+"Al iniciar la sesión, estás de acuerdo con los"                                            = "Al iniciar la sesión, estás de acuerdo con los";
+"Términos de Servicio"                                                                      = "Términos de Servicio";
+"Política de Privacidad"                                                                    = "Política de Privacidad";
+"© 2015 ContiTech Mexicana, ALL RIGHTS RESERVED"                                            = "© 2015 ContiTech Mexicana, ALL RIGHTS RESERVED";
+"Campo Incompleto"                                                                          = "Campo Incompleto";
+"Favor de ingresar tus datos correctamente"                                                 = "Favor de ingresar tus datos correctamente";
+"Validando Usuario..."                                                                      = "Validando Usuario...";
+"Datos Incorrectos"                                                                         = "Datos Incorrectos";
+"Usuario y/o Contraseña son incorrectos"                                                    = "Usuario y/o Contraseña son incorrectos";
+"Si tienes problemas para entrar a tu cuenta, por favor repórtalo a login@contiplus.net"    = "Si tienes problemas para entrar a tu cuenta, por favor repórtalo a login@contiplus.net";
+"Ok"                                                                                        = "Ok";
+"ERROR"                                                                                     = "ERROR";
+
+// Clients and Conveyors View Text
+"Clientes"                                                                                                                          = "Clientes";
+"Transportadores"                                                                                                                   = "Transportadores";
+"Suspender"                                                                                                                         = "Suspender";
+"Eliminar"                                                                                                                          = "Eliminar";
+"Reactivar"                                                                                                                         = "Reactivar";
+"Suspendida"                                                                                                                        = "Suspendida";
+"¡ATENCIÓN!"                                                                                                                        = "¡ATENCIÓN!";
+"Al suspender a la empresa ningún usuario asociado podrá entrar a la plataforma. ¿Desea continuar?"                                 = "Al suspender a la empresa ningún usuario asociado podrá entrar a la plataforma. ¿Desea continuar?";
+"Al eliminar la empresa no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?"        = "Al eliminar la empresa no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?";
+"Al eliminar el transportador no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?"  = "Al eliminar el transportador no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?";
+"Sí"                                                                                                                                = "Si";
+"No"                                                                                                                                = "No";
+
+"Editado"                                                                                                                           = "Editado";
+"Editar"                                                                                                                            = "Editar";
+"Notificaciones"    = "Notificaciones";
+"Borradores"        = "Borradores";
+"Ayuda"             = "Ayuda";
+"Configuración"     = "Configuración";
+"Cerrar Sesión"     = "Cerrar Sesión";
+
+"Error al borrar el transportador"   = "Error al borrar el transportador";
+
+"Descargando información..."    = "Descargando información...";
+"Error al descargar la información"    = "Error al descargar la información";
+"Error al descargar la información. Favor de revisar su conexión a Internet o tratar más tarde. Para actualizar favor de jalar la tabla hacia abajo"   = "Error al descargar la información. Favor de revisar su conexión a Internet o tratar más tarde. Para actualizar favor de jalar la tabla hacia abajo";
+"Error al suspender al cliente"    = "Error al suspender al cliente";
+"Error al reactivar al cliente"    = "Error al reactivar al cliente";
+"Error al borrar al cliente" = "Error al borrar al cliente";
+"Favor de verificar tu conexión a internet o intentar más tarde. La aplicación usará los datos de cache" = "Favor de verificar tu conexión a internet o intentar más tarde. La aplicación usará los datos de cache";
+
+// Client Info
+"Distribuidor asociado:"    = "Distribuidor asociado:";
+"Región:"                   = "Región:";
+
+// Add Edit Conveyor
+"Debe proporcionar un número de serie"  = "Debe proporcionar un número de serie";
+"Es necesario seleccionar al menos 1 perfil de banda"   = "Es necesario seleccionar al menos 1 perfil de banda";
+"Imagen Principal"  = "Imagen Principal";
+"Error al subir el transportador" = "Error al subir el transportador";
+"¿Desea guardar el transportador en borradores?" = "¿Desea guardar el transportador en borradores?";
+"Error al actualizar el transportador" = "Error al actualizar el transportador";
+"¿Desea guardar los cambios?" = "¿Desea guardar los cambios?";
+"Al salir se perderán los cambios. ¿Desea Continuar?" = "Al salir se perderán los cambios. ¿Desea Continuar?";
+
+// Details Info
+"Detalles"                  = "Detalles";
+"Número"                    = "Número";
+"Perfil"                    = "Perfil";
+"Seleccionar perfil"        = "Seleccionar perfil";
+"Agregar imagen"            = "Agregar imagen";
+"Capturar imagen"           = "Capturar imagen";
+"Seleccionar de galería"    = "Seleccionar de galería";
+"Cancelar"                  = "Cancelar";
+
+// Profiles
+
+// Conveyor Info
+"Transportador"                 = "Transportador";
+"Distancia entre centros (m)"   = "Distancia entre centros (m)";
+"Elevación (m)"                 = "Elevación (m)";
+"HP Motor"                      = "HP Motor";
+"Relación reductor"             = "Relación reductor";
+"RPM Motor"                     = "RPM Motor";
+"Ángulo de inclinación (°)"     = "Ángulo de inclinación (°)";
+"Capacidad (t/h)"               = "Capacidad (t/h)";
+"Carga (%)"                     = "Carga (%)";
+
+// Tensor Info
+"Tipo de Tensor"                = "Tipo de Tensor";
+"Peso estimado (lbs)"           = "Peso estimado (lbs)";
+"Carrera (m)"                   = "Carrera (m)";
+"Tornillo"                      = "Tornillo";
+"Gravedad"                      = "Gravedad";
+
+// Material Info
+"Material"                      = "Material";
+"Descripción"                   = "Descripción";
+"Densidad (lbs/ft3)"            = "Densidad (lbs/ft3)";
+"Tamaño max. terrón (Plg)"      = "Tamaño max. terrón (Plg)";
+"Temperatura (°C)"              = "Temperatura (°C)";
+"Altura de caída (m)"           = "Altura de caída (m)";
+"Finos (%)"                     = "Finos (%)";
+"Condiciones de carga"          = "Condiciones de carga";
+"Frecuencia de carga"           = "Frecuencia de carga";
+"Tamaño granular"               = "Tamaño granular";
+"Densidad"                      = "Densidad";
+"Agresividad"                   = "Agresividad";
+"Material transportado"         = "Material transportado";
+"Condiciones de alimentación"   = "Condiciones de alimentación";
+
+// All Materials
+"Alumina"                           = "Alumina";
+"Arcilla"                           = "Arcilla";
+"Avena"                             = "Avena";
+"Arena de fundición"                = "Arena de fundición";
+"Arena húmeda"                      = "Arena húmeda";
+"Arena rocosa"                      = "Arena rocosa";
+"Aserrin"                           = "Aserrin";
+"Arena seca"                        = "Arena seca";
+"Asfalto"                           = "Asfalto";
+"Azúcar a granel"                   = "Azúcar a granel";
+"Azúcar refinada"                   = "Azúcar refinada";
+"Agregados"                         = "Agregados";
+"Azufres, finos"                    = "Azufres, finos";
+"Azufres, mineral"                  = "Azufres, mineral";
+"Azufres, piedras"                  = "Azufres, piedras";
+"Bagazo"                            = "Bagazo";
+"Bauxita"                           = "Bauxita";
+"Cal, de tierra"                    = "Cal, de tierra";
+"Cal guijarros"                     = "Cal guijarros";
+"Caliza clasificada"                = "Caliza clasificada";
+"Caliza finos"                      = "Caliza finos";
+"Caliza triturada"                  = "Caliza triturada";
+"Carbón antracita 3/4 a 2\""        = "Carbón antracita 3/4 a 2\"";
+"Carbón bituminoso clasificado"     = "Carbón bituminoso clasificado";
+"Carbón bituminoso húmedo"          = "Carbón bituminoso húmedo";
+"Carbón bituminoso seco"            = "Carbón bituminoso seco";
+"Cemento portland"                  = "Cemento portland";
+"Cemento clinker"                   = "Cemento clinker";
+"Ceniza húmeda"                     = "Ceniza húmeda";
+"Ceniza seca"                       = "Ceniza seca";
+"Cebada"                            = "Cebada";
+"Centeno"                           = "Centeno";
+"Concreto"                          = "Concreto";
+"Coque clasificado"                 = "Coque clasificado";
+"Coque desmenuzado"                 = "Coque desmenuzado";
+"Coque mezclado"                    = "Coque mezclado";
+"Coque petrolizado"                 = "Coque petrolizado";
+"Criolita"                          = "Criolita";
+"Cuarzo triturado"                  = "Cuarzo triturado";
+"Desperdicio de vidrio Nuevo¡"      = "Desperdicio de vidrio Nuevo¡";
+"Dolomita triturada"                = "Dolomita triturada";
+"Escoria de fundición triturada"    = "Escoria de fundición triturada";
+"Escoria granulada"                 = "Escoria granulada";
+"Fluorita"                          = "Fluorita";
+"Fosfato guijarros"                 = "Fosfato guijarros";
+"Fosfato roca"                      = "Fosfato roca";
+"Granito"                           = "Granito";
+"Girasol"                           = "Girasol";
+"Hierro mineral"                    = "Hierro mineral";
+"Hierro triturado"                  = "Hierro triturado";
+"Harina de trigo"                   = "Harina de trigo";
+"Grava seca cribada"                = "Grava seca cribada";
+"Madera sólida"                     = "Madera sólida";
+"Madera viruta"                     = "Madera viruta";
+"MAP, DAP"                          = "MAP, DAP";
+"Mármol"                            = "Mármol";
+"Niquel, minera"                    = "Niquel, minera";
+"Nitrato de amonio"                 = "Nitrato de amonio";
+"Pallets de hierro"                 = "Pellets de hierro";
+"Pizarra triturada 1/2\""           = "Pizarra triturada 1/2\"";
+"Potasa mineral 6\""                = "Potasa mineral 6\"";
+"Potasa mineral 14\""               = "Potasa mineral 14\"";
+"Pulpa de papel"                    = "Pulpa de papel";
+"Roca triturada"                    = "Roca triturada";
+"Sal, granulada"                    = "Sal, granulada";
+"Sal, triturada 3/8\""              = "Sal, triturada 3/8\"";
+"Sinters"                           = "Sinters";
+"Taconita, pellets"                 = "Taconita, pellets";
+"Vidrio horneado"                   = "Vidrio horneado";
+"Yeso  triturado"                   = "Yeso  triturado";
+"Zinc, mineral triturado"           = "Zinc, mineral triturado";
+
+// Conditions
+"Desfavorable"  = "Desfavorable";
+"Moderado"      = "Moderado";
+"Favorable"     = "Favorable";
+
+// Loading Frecuency
+"Poco frecuente"    = "Poco frecuente";
+"Moderado"          = "Moderado";
+"Frecuente"         = "Frecuente";
+
+// Granular Size
+"Fino"      = "Fino";
+"Medio"     = "Medio";
+"Grueso"    = "Grueso";
+
+// New Density
+"Ligera"    = "Ligera";
+"Media"     = "Media";
+"Pesada"    = "Pesada";
+
+// Aggresitivity
+"Baja"      = "Baja";
+"Moderada"  = "Moderada";
+"Alta"      = "Alta";
+
+// Material Conveyed
+"Grado 1 medida de grano 0-50 mm"       = "Grado 1 medida de grano 0-50 mm";
+"Grado 2 medida de grano 50-150 mm"     = "Grado 2 medida de grano 50-150 mm";
+"Grado 3 medida de grano 150-400 mm"    = "Grado 3 medida de grano 150-400 mm";
+
+"Grado 1" = "Grado 1";
+"Grado 2" = "Grado 2";
+"Grado 3" = "Grado 3";
+
+// Feeding Conditions
+"Desfavorable caída arriba de 250 cm"   = "Desfavorable caída arriba de 250 cm";
+"Estandar caída entre 50-250 cm"        = "Estandar caída entre 50-250 cm";
+"Favorable caída menor a 50 cm"         = "Favorable caída menor a 50 cm";
+"Estandar" = "Estandar";
+
+// Actual Conveyor Info
+"Banda Actual"              = "Banda Actual";
+"Ancho (Plg)"               = "Ancho (Plg)";
+"Tensión (TU) (PIW)"        = "Tensión (TU) (PIW)";
+"Espesor cubierta superior" = "Espesor cubierta superior";
+"Espesor cubierta inferior" = "Espesor cubierta inferior";
+"Velocidad (ft/min)"        = "Velocidad (ft/min)";
+"Fecha de instalación"      = "Fecha de instalación";
+"Marca"                     = "Marca";
+"Desarrollo total (m)"      = "Desarrollo total (m)";
+"Operación hrs. por año"    = "Operación hrs. por año";
+
+// Pulleys Info
+"Poleas"                        = "Poleas";
+"Polea motriz - Ø (Plg)"        = "Polea motriz - Ø (Plg)";
+"Ancho (Plg)"                   = "Ancho (Plg)";
+"Recubrimiento (Plg)"           = "Recubrimiento (Plg)";
+"Arco de contacto (°)"          = "Arco de contacto (°)";
+"Polea de cabeza - Ø (Plg)"     = "Polea de cabeza - Ø (Plg)";
+"Polea de cola - Ø (Plg)"       = "Polea de cola - Ø (Plg)";
+"Polea de contacto - Ø (Plg)"   = "Polea de contacto - Ø (Plg)";
+"Polea de doblez - Ø (Plg)"     = "Polea de doblez - Ø (Plg)";
+"Polea tensora - Ø (Plg)"       = "Polea tensora - Ø (Plg)";
+"Polea adicional1- Ø (Plg)"     = "Polea adicional1- Ø (Plg)";
+"Polea adicional2- Ø (Plg)"     = "Polea adicional2- Ø (Plg)";
+
+// Idlers Info
+"Rodillos"          = "Rodillos";
+"Impacto Ø (Plg)"   = "Impacto Ø (Plg)";
+"Impacto (°)"       = "Impacto (°)";
+"Carga Ø (Plg)"     = "Carga Ø (Plg)";
+"Carga (°)"         = "Carga (°)";
+"Retorno Ø (Plg)"   = "Retorno Ø (Plg)";
+"Retorno (°)"       = "Retorno (°)";
+"Espacio (LC) (m)"  = "Espacio (LC) (m)";
+"Espacio (LR) (m)"  = "Espacio (LR) (m)";
+"Partes por artesa" = "Partes por artesa";
+
+// Remarks Info
+"Observaciones" = "Observaciones";
+"Título"        = "Título";
+
+// Conveyor info
+"Agregar imagen"    = "Agregar imagen";
+"Agregar video"     = "Agregar video";
+"Agregar folder"    = "Agregar folder";
+"Nombrar Folder"    = "Nombrar Folder";
+"Favor de escribir el nombre del folder que se desea crear" = "Favor de escribir el nombre del folder que se desea crear";
+"Aceptar"           = "Aceptar";
+"Nombre del Folder" = "Nombre del Folder";
+"Tiempo de vida"    = "Tiempo de vida";
+"Rastreo de banda"  = "Rastreo de banda";
+"Error al crear el folder" = "Error al crear el folder";
+"Favor de tratar más tarde" = "Favor de tratar más tarde";
+"Por el momento no hay conexión a internet, intentar más tarde"  = "Por el momento no hay conexión a internet, intentar más tarde";
+"Ficha técnica"     = "Ficha técnica";
+
+// DataSheet Info
+"Creado" = "Creado";
+
+// CPImageViewController
+"Al eliminar la imagen no se podrá recuperar la información. ¿Desea continuar?" = "Al eliminar la imagen no se podrá recuperar la información. ¿Desea continuar?";
+"Error al borrar la imagen" = "Error al borrar la imagen";
+"Favor de verificar tu conexión a internet o intentar más tarde" = "Favor de verificar tu conexión a internet o intentar más tarde";
+
+// CPVideoViewController
+"Al eliminar el video no se podrá recuperar la información. ¿Desea continuar?"  = "Al eliminar el video no se podrá recuperar la información. ¿Desea continuar?";
+"Error al borrar el video"   = "Error al borrar el video";
+
+// CPFolderViewController
+"Agregar nota" = "Agregar nota";
+"Favor de escribir el nuevo nombre para folder" = "Favor de escribir el nuevo nombre para folder";
+"Al eliminar el folder no se podrá recuperar la información. ¿Desea continuar?" = "Al eliminar el folder no se podrá recuperar la información. ¿Desea continuar?";
+"Error al borrar el folder"  = "Error al borrar el folder";
+
+// CPNoteViewController
+"Al eliminar la nota no se podrá recuperar la información. ¿Desea continuar?"   = "Al eliminar la nota no se podrá recuperar la información. ¿Desea continuar?";
+"Error al borrar la nota"    = "Error al borrar la nota";
+
+// AddImage
+"Título"                        = "Título";
+"Descripción"                   = "Descripción";
+"Error al guardar"              = "Error al guardar";
+"Debe proporcionar un título"   = "Debe proporcionar un título";
+"Es necesario seleccionar al menos 1 archivo de imagen" = "Es necesario seleccionar al menos 1 archivo de imagen";
+"Procesando..."                 = "Procesando...";
+"Error al subir la imagen"    = "Error al subir la imagen";
+"¿Desea guardar la imagen en borradores?"    = "¿Desea guardar la imagen en borradores?";
+"Error al actualizar la imagen"  = "Error al actualizar la imagen";
+"¿Desea guardar los cambios?" = "¿Desea guardar los cambios?";
+
+// AddVideo
+"Agregar video" = "Agregar video";
+"Capturar video"    = "Capturar video";
+"Es necesario seleccionar al menos 1 archivo de video"  = "Es necesario seleccionar al menos 1 archivo de video";
+"Error al subir el video" = "Error al subir el video";
+"¿Desea guardar el video en borradores?"  = "¿Desea guardar el video en borradores?";
+"Error al actualizar el video" = "Error al actualizar el video";
+"¿Desea guardar los cambios?" = "¿Desea guardar los cambios?";
+"Error al selecionar video" = "Error al selecionar video";
+"La duración maxima del video debe ser de 30 segundos"  = "La duración maxima del video debe ser de 30 segundos";
+
+// AddNote
+"Nota" = "Nota";
+"Es necesario agregar texto a la nota"  = "Es necesario agregar texto a la nota";
+"Error al subir la nota"              = "Error al subir la nota";
+"¿Desea guardar la nota en borradores?"  = "¿Desea guardar la nota en borradores?";
+"¿Desea guardar los cambios?" = "¿Desea guardar los cambios?";
+
+// Estimated Lifetime
+"Vida estimada en años"    = "Vida estimada en años";
+"Tonelaje esperado en Mio/ton" = "Tonelaje esperado en Mio/ton";
+"Fecha aproximada de cambio"    = "Fecha aproximada de cambio";
+"Banda recomendada en PIW"      = "Banda recomendada en PIW";
+"Banda recomendada en N/mm"     = "Banda recomendada en N/mm";
+"Banda recomendada" = "Banda recomendada";
+"Disclaimer"  = "El cálculo de tensión y espesor de banda está basado en las especificaciones contenidas en la norma DIN 22101. No constituye ninguna garantía de calidad, no respondemos por daños y perjuicios que pudieran producirse del resultado de este cálculo, sea cual fuera su motivo o causa jurídica.";
+"meses" = "meses";
+"años"  = "años";
+"Mio/ton"   = "Mio/ton";
+"Error al obtener la información requerida"   = "Error al obtener la información requerida";
+
+// Quote Request
+"Solicitar cotización"  = "Solicitar cotización";
+
+// User Profile
+"No. Empleado"  = "No. Empleado";
+"Región"        = "Región";
+"Tel."          = "Tel.";
+
+// Drafts
+"Subir"         = "Subir";
+"Subir Todo"    = "Subir Todo";
+"Al eliminar el elemento no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?" = "Al eliminar el elemento no se podrá recuperar la información y todos los elementos asociados se perderán. ¿Desea continuar?";
+"Error al subir la imagen" = "Error al subir la imagen";
+"Error al subir el video"  = "Error al subir el video";
+"Error al subir la nota"   = "Error al subir la nota";
+"Error al subir el transportador"  = "Error al subir el transportador";
+"Error al subir los elementos" = "Error al subir los elementos";
+
+// Configuration
+"Notificaciones vía email"  = "Notificaciones vía email";
+"Idioma"                    = "Idioma";
+"ContiPlus v2.0"            = "ContiPlus v2.0";
+"Terminos de Uso"           = "Terminos de Uso";
+"Privacidad"                = "Privacidad";
+"IdiomaDesc"                = "Español";
+"Error al cambiar las notificaiones vía email"    = "Error al cambiar las notificaiones vía email";
+
+// Language
+"Español"   = "Español";
+"Inglés"    = "Inglés";
+
+// Reports
+"Error al abrir el reporte"   = "Error al abrir el reporte";
+
+// Band Tracking
+"Error al visualizar el mapa" = "Error al visualizar el mapa";
+
+// WebView
+"Error al mostrar la información" = "Error al mostrar la información";
+
+// Enumeration
+"1 de 8" = "1 de 8";
+"2 de 8" = "2 de 8";
+"3 de 8" = "3 de 8";
+"4 de 8" = "4 de 8";
+"5 de 8" = "5 de 8";
+"6 de 8" = "6 de 8";
+"7 de 8" = "7 de 8";
+"8 de 8" = "8 de 8";
+
+// Quote Request
+"Tu solicitud fue enviada con exito"   = "Tu solicitud fue enviada con exito";
+"Error al enviar la solicitud"    = "Error al enviar la solicitud";
+
+// Months
+"Ene" = "Ene";
+"Feb" = "Feb";
+"Mar" = "Mar";
+"Abr" = "Abr";
+"May" = "May";
+"Jun" = "Jun";
+"Jul" = "Jul";
+"Ago" = "Ago";
+"Sep" = "Sep";
+"Oct" = "Oct";
+"Nov" = "Nov";
+"Dic" = "Dic";

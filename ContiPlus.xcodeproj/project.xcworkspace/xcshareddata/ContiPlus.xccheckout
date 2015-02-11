@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05D83090-DB15-45F8-A398-B64A64AC634F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContiPlus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C9618C2DD93B4511F60A4EC8A119A06E8E641F3</key>
+		<string>https://github.com/jonathanjimenez/ContiPlusV2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContiPlus.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C9618C2DD93B4511F60A4EC8A119A06E8E641F3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jonathanjimenez/ContiPlusV2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C9618C2DD93B4511F60A4EC8A119A06E8E641F3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C9618C2DD93B4511F60A4EC8A119A06E8E641F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ContiPlus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
