@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ContiPlus.xcodeproj">
+      location = "self:Contiplus.xcodeproj">
    </FileRef>
 </Workspace>

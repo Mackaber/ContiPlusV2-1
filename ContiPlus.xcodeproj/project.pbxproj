@@ -999,7 +999,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E0D5A3ED1A21181F009495D3 /* Build configuration list for PBXProject "ContiPlus" */;
+			buildConfigurationList = E0D5A3ED1A21181F009495D3 /* Build configuration list for PBXProject "Contiplus" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1328,7 +1328,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E0D5A3ED1A21181F009495D3 /* Build configuration list for PBXProject "ContiPlus" */ = {
+		E0D5A3ED1A21181F009495D3 /* Build configuration list for PBXProject "Contiplus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0D5A4131A21181F009495D3 /* Debug */,
